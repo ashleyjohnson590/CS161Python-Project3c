@@ -1,0 +1,159 @@
+Assignment 3 Rubric (1)
+Criteria	Ratings	Pts
+Code Style Deductions: Used single letter variable names. Known math symbols are okay. (-2 Points)
+0 pts
+Full Marks
+Meets style guidelines
+0 pts
+Point Deduction
+0 / 0 pts
+Code Style Deductions: Did not follow name case conventions such as snake_case. (-1 Point)
+0 pts
+Full Marks
+Meets style guidelines
+0 pts
+Point Deduction
+0 / 0 pts
+Code Style Deduction: Each wrong file/function/class name. (-1 Point each)
+0 pts
+Full Marks
+Meets style guidelines
+0 pts
+Point Deduction
+0 / 0 pts
+Code Style Deductions: For each file without required comment headers. (Including inaccurate descriptions.) (-1 Point)
+0 pts
+Full Marks
+Meets style guidelines
+0 pts
+Point Deduction
+0 / 0 pts
+Un-covered Material: Used materials not yet covered in the class. (-3 Points)
+0 pts
+Full Marks
+Used only approved materials
+0 pts
+Point Deduction
+Used un-covered materials
+0 / 0 pts
+Project 3a: Successfully stored the number of integers.
+2 pts
+Full Marks
+0 pts
+No Marks
+2 / 2 pts
+Project 3a: Correctly used a loop to prompt user for numbers.
+7 to >6 pts
+Full Marks
+6 to >0 pts
+Partial Marks
+0 pts
+No Marks
+7 / 7 pts
+Project 3a: Initialized max and min to appropriate values, rather than arbitrary values like 0.
+2 pts
+Full Marks
+0 pts
+No Marks
+2 / 2 pts
+Project 3a: Correctly used conditional expressions to calculate min and max.
+7 to >6 pts
+Full Marks
+6 to >0 pts
+Partial Marks
+0 pts
+No Marks
+7 / 7 pts
+Project 3a: Successfully displayed the correct output to the screen.
+2 pts
+Full Marks
+0 pts
+No Marks
+2 / 2 pts
+Project 3a DEDUCTION: Used a list as that concept was not covered yet. (-3 Points)
+0 pts
+Full Marks
+0 pts
+No Marks
+0 / 0 pts
+Project 3a DEDUCTION: Used min( ) or max( ) as these functions were not covered yet. (-3 Points)
+0 pts
+Full Marks
+0 pts
+No Marks
+0 / 0 pts
+Project 3b: Successfully stored the number.
+2 pts
+Full Marks
+0 pts
+No Marks
+2 / 2 pts
+Project 3b: Correctly used a loop to try all values from 1 to the number.
+10 to >9 pts
+Full Marks
+9 to >0 pts
+Partial Marks
+0 pts
+No Marks
+10 / 10 pts
+Project 3b: Correctly calculated which numbers divided evenly.
+6 to >5 pts
+Full Marks
+5 to >0 pts
+Partial Marks
+0 pts
+No Marks
+6 / 6 pts
+Project 3b: Successfully displayed the correct output to the screen.
+2 pts
+Full Marks
+0 pts
+No Marks
+2 / 2 pts
+Project 3c: Successfully stored the number to be guessed.
+2 pts
+Full Marks
+0 pts
+No Marks
+2 / 2 pts
+Project 3c: Correctly used a loop to ask for guesses until the guess and number match.
+7 to >6 pts
+Full Marks
+6 to >0 pts
+Partial Marks
+0 pts
+No Marks
+7 / 7 pts
+Project 3c: Correctly kept track of the number of guesses.
+7 to >6 pts
+Full Marks
+6 to >0 pts
+Partial Marks
+0 pts
+No Marks
+7 / 7 pts
+Project 3c: Produce correct output to screen. (No penalty for insignificant differences like extra spaces.)
+2 pts
+Full Marks
+0 pts
+No Marks
+2 / 2 pts
+Project 3c: Produced the correct output for “1 try”. (Edge Case)
+2 pts
+Full Marks
+0 pts
+No Marks
+0 / 2 pts
+Late Project Deduction (within 48 hours)
+0 pts
+Full Marks
+0 pts
+Point Deduction
+0 / 0 pts
+Deduction: Typos/incorrect formatting (Including extraneous/incorrect print statements). (-6 Points)
+0 pts
+Full Marks
+0 pts
+Point Deduction
+0 / 0 pts
+Total Points: 58
